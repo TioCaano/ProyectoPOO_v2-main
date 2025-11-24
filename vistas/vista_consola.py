@@ -19,7 +19,7 @@ class VistaConsola:
         while seguir:
             self.limpiar_pantalla()
             print("===========================================")
-            print("=== Gestion de Empleados (solo Gerente) ===")
+            print("=== Gestion de Empleados (solo Gerentee) ===")
             print("===========================================")
             print("1. Crear empleado")
             print("2. Listar empleados")
